@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Gonzalo Esparza"
-  text: "MIT Student in Computer Science Engineering"
+  text: "MIT Student in Computer Science Engineering."
   tagline: "6.1040 Portfolio"
   actions:
     - theme: brand
