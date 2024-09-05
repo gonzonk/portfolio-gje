@@ -4,13 +4,14 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Gonzalo Esparza's Portfolio",
   description: "6.1040 Fall 2024",
-  // TODO: add your base here; this should be your repo name!
   base: "/portfolio-gje/",
   themeConfig: {
+    logo: '../../assets/images/lumaFavicon.ico',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
+      { text: "About", link: "/about.html"},
     ],
 
     sidebar: [
@@ -20,6 +21,6 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/gonzonk" }],
   },
 });
