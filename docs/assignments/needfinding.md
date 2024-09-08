@@ -5,7 +5,7 @@ layout: doc
 
 # Needfinding!
 
-<a href="../Assets/Needfinding Interview Notes.pdf" download="Interview Notes">Interview Notes</a>
+<a href="../Public/Needfinding Interview Notes.pdf" download="Interview Notes">Interview Notes</a>
 
 ## Interview Planning
 
