@@ -6,11 +6,11 @@ export default defineConfig({
   description: "6.1040 Fall 2024",
   base: "/portfolio-gje/",
   themeConfig: {
-    logo: '../../assets/images/lumaFavicon.ico',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
+      { text: "Assignments", link: "/assignments"},
       { text: "About", link: "/about.html"},
     ],
 
@@ -19,6 +19,10 @@ export default defineConfig({
         text: "Blogs",
         link: "/blogs",
       },
+      {
+        text: "Assignments",
+        link: "/assignments"
+      }
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/gonzonk" }],
