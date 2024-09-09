@@ -5,8 +5,6 @@ layout: doc
 
 # Needfinding!
 
-<a href="/Needfinding Interview Notes.pdf" download="Interview Notes">Interview Notes</a>
-
 ## Interview Planning
 
 **Hunch:** In preliminary conversations, research, and consideration, I believe there may be a lack of a social media purpose built for crafters (Fiber art, Woodworking, etc.).
@@ -24,6 +22,9 @@ layout: doc
 - How do you like to receive patterns/blueprints for \*your craft\*? -> attempt to find out what experience users want when finding crafts
 
 ## Interview Summary
+
+<a href="../interviewNotes">Interview Notes</a>
+
 ### Cassie and Gabby (My Mom and Sister):
 During this interview, Gabby, who is also a crafter, happened to be around and I was fortunately able to interview both Cassie and Gabby at the same time. I opened with the basic question of asking each which types of crafts they did to warm up the conversation, they both had an interest in sewing and Cassie highlighted an interest in "miscellaneous crafting such as my merry christmas wood block". I then asked how each of them get inspiration for their crafts and I was surprised when they both mentioned Pinterest as the main place they source their craft ideas and Gabby included that she also finds many craft ideas on TikTok. When I asked them how like to receive instructions for their crafts Gabby explained "I like my instructions to be in video form because I find written instructions difficult to understand". I pushed Gabby on whether or not she found the the written instructions useful at all and I was surprised how emphatic she was about their usefulness as a supplemental aide to a video tutorial. \
 I then pivoted the interview to try and find points of friction in their use of Pinterest to find craft ideas. I asked Gabby to walk me through how she finds a craft on Pinterest. I was surprised when she explained she often searched for specific style and medium of craft and found that items outside of her search parameters would appear. When I asked her why this might be she suggested people inappropriately tag their posts. She further lamented "A majority of the things people post don't have tutorials, or any information how to do it, its just a picture of a craft". At this point in the interview I revealed I was exploring the potential of a social media designed for crafters and wondered if either would be interested in sharing their crafts to a social media platform such as instagram, Cassie said she didn't like posting on social media but Gabby said she would be inclined to share her crafts to her close friends. Finally, when asking if either of them had any closing remarks, Cassie suggested that crafts display their approximate completion time and Gabby suggested that crafts include a difficulty level: "easy, medium, or hard". They both agreed that a sorting and a rating system would improve their craft-finding experience and were both adamant that scaled rating system would be more valuable to them than a like system.
