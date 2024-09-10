@@ -1,4 +1,14 @@
 ---
-title: blog1
+title: The Negative Effects of Waymo on Indirect Stakeholders
 layout: doc
 ---
+
+Following today's lecture on value sensitive design, the effects of design decisions on indirect stakeholders jumped out at me as especially relevant to many recent innovations. The technology that seemed to resonate most with effects on indirect stakeholders was Waymo, and the negative effects they have been having on cities on the west coast.
+
+Waymo provides a rideshare service that is entirely provided by driverless, ai-powered, automated vehicles. While Waymo does boast more affordable rides and safe vehicles, they have had multiple negative effects on the residents of the cities which allow them. Many locals are upset about Waymo undercutting other ridesharing platforms and hurting the wages of drivers for other ridesharing platforms. This distaste can be seen in videos like the following where a group of locals break into and set a Waymo car on fire.
+<iframe width="120%" height="500" src="https://www.youtube.com/embed/2AuogqWG8pM" title="Waymo driverless car vandalized, set on fire in San Francisco&#39;s Chinatown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+More importantly than this are the many safety concerns Waymo cars cause. These safety concerns are even harder to address as pulling over a Waymo car provides an interesting challenge for local law enforcement. It is both difficult to convince the Waymo car ai to pull over and when they get the car to stop, the police officer may not know how to proceed with the traffic stop. Waymo attempts to make this simplify this process by implementing an emergency help button which quickly establishes a connection with 24/7 hour Waymo support staff, but this may not be obvious to officers. I've linked a news report of one such incident:
+<iframe width="120%" height="500" src="https://www.youtube.com/embed/7W-VneUv8Gk" title="Driverless Waymo pulled over by Phoenix Police" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+More importantly these Waymo car traffic incidents are not uncommon. It is concerning how often these driverless vehicles will break traffic laws, especially in abnormal and even more high-risk situations like work or school zones. There are many stories of drivers having to take extreme precaution around Waymo cars to avoid accident. Ultimately these cars seem to pose a safety risk at the time being and I don't know if they are tested or developed enough to see full scale deployment on public roads. I'm curious what others think about Waymo, and if they think they are ready to be on the roads yet.
