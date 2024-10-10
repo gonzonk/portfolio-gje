@@ -131,3 +131,12 @@ assert stitch.author = author
 stitch -= stitch
 
 ![Data Connections](../Assets/A4%20map.png)
+
+# Reflection
+One piece of my convergent design that I had to slightly rework, was tracking the ratings of each users. Not only would associating each post with
+a set of users who each had a rating be intensive on the database, but more importantly, it would force users to create an account to contribute
+to community rating. Although allowing a non-authenticated user to rate posts may be problematic (bot-spam, self inflating ratings), I believe
+it is more important to not force users to authenticate. I also had to consider how to modify the given Posting implementation, and most critically
+addressing how tags would be kept track of. I decided to initialize all posts with no tags, which may present problems with creators initializing tags
+to their projects but this could be something to watch out for in later stages of development. I made this decision, so users, or posters could
+add tags they saw best fit to a post. I also allowed non authenticated users to tag posts for the same reasons I allowed them to rate them
