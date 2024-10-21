@@ -1,0 +1,12 @@
+---
+title: Pushing Innovation in Different Mediums
+layout: doc
+---
+
+Innovation drives technology. As technology has evolved in all sectors, separations can be made between eras as defined by key innovations, steam power in the 19th century, the internet in the 20th century, and the best of the 21st century: the IPad in the center console of all cars… . Of course, not all innovations are as valuable as others but it’s hard to say the impact a design decision will have before shipping it to consumers. I won’t speculate too much on the value of different innovations, but rather consider how designers should decide what to push to consumers and the impact of their innovations.
+
+As discussed in class the common digital center console of most modern cars has many design strengths and weaknesses. In terms of strengths, it can allow manufacturers to push updates to car software more easily, and may allow some drivers more efficient use of their cars system. But much more problematically, these tablets can cause a safety issue, not only are they visually distracting but they provide no tactile feedback for the performance of certain actions, like a physical button or knob would. Most recently the removal of a physical stick shift may be the most dangerous change, as it is so crucial that the driver is aware what gear they are in, and so ingrained the public consciousness how a stick shift operates, it may not be safe to relegate this to a screen. The problem with deploying such a major change in a car is that it cannot be undone, once a car is shipped its major systems are set in stone for the most part.
+
+Recently samsung has changed their screen capture interface, while users used to select a shape of screen capture they wanted, they now must highlight the portion of their screen they want to capture. At first I strongly disliked this interface as I was so used to how the old one worked, and I still believe there are flaws with the new system, but these will likely be improved upon.
+
+I bring up these examples to contrast the risks of pushing changes in different mediums. In the car example, the changes made to the transmission system are effectively unchangeable, but in the samsung software example they could be changed with relative ease through a software update. I would ask how intrepid do you think software designers should be in pushing innovative new software systems, when compared to how thorough and cautious physical product designers must be with their innovations.
