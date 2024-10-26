@@ -25,3 +25,7 @@ The button icon in the top left corner being used as the menu button may cause c
 
 **Consistency**: 
 The nav bar is reused throughout the whole application allowing users to become familiar with the options available to them there. Furthermore all links to a blueprint or stitch page have the same visual look which helps users understand they can click through to a blueprint page. This could actually be a problem with the stitch links and the blueprint links looking so similar, as it may confuse users as to which they are clicking on. I will make these two types of links more visually distinct.
+
+
+# Visual Design Study:
+[My study slides](https://docs.google.com/presentation/d/1lfcUDvNULgCAKAXvYgcToiuG6R5EstA7OesEs2mpe2M/edit?usp=sharing)
